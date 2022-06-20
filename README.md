@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Rails web application called secret santas that aims to connect people in around the world via the wonderful practice of mailing each other beer
 - 🌱 I’m currently learning Python in connection with the CS50 course
 - 👯 I’m interested in collaborating on fun and interesting projects built in Ruby on Rails
-- 🥅 2020 Goals: To land a role within the software engineering world
+- 🥅 2022 Goals: To land a role within the software engineering world
 - 📫 How to reach me: Connect with me on LinkedIn using the link below
 - ⚡ Fun fact: Before finding programming I took a masters degree in history and worked as a carpenter
 
