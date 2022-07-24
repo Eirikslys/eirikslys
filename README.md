@@ -1,9 +1,9 @@
 ### Hi there, I'm Eirik and this is my github
 
 
-- 🔭 I’m currently working on a Rails web application called secret santas that aims to connect people in around the world via the wonderful practice of mailing each other beer
-- 🌱 I’m currently learning Python in connection with the CS50 course
-- 👯 I’m interested in collaborating on fun and interesting projects built in Ruby on Rails
+- 🔭 I’m currently working on a boot camp with a company called SALT in Stockholm
+- 🌱 I’m currently learning how to best make full stack applications with the tech stack React / C# / Azure databases
+- 👯 I’m interested in collaborating on interesting projects using the tools I know.
 - 🥅 2022 Goals: To land a role within the software engineering world
 - 📫 How to reach me: Connect with me on LinkedIn using the link below
 - ⚡ Fun fact: Before finding programming I took a masters degree in history and worked as a carpenter
@@ -36,7 +36,13 @@
 
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
+
+
+
+<img align="left" alt="Csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
