@@ -1,7 +1,7 @@
 ### Hi there, I'm Eirik and this is my github
 
 
-- 🔭 I’m currently working on a boot camp with a company called SALT in Stockholm
+- 🔭 I’m currently working as a fullstack .NET developer at School of applied technology </salt>
 - 🌱 I’m currently learning how to best make full stack applications with the tech stack React / C# / Azure databases
 - 👯 I’m interested in collaborating on interesting projects using the tools I know.
 - 🥅 2022 Goals: To land a role within the software engineering world
