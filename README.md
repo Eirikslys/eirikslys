@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a fullstack .NET developer at School of applied technology </salt>
 - 🌱 I’m currently learning how to best make full stack applications with the tech stack React / C# / Azure databases
 - 👯 I’m interested in collaborating on interesting projects using the tools I know.
-- 🥅 2022 Goals: To land a role within the software engineering world
+- 🥅 2023 Goals: Deploying a MVP for my beer brew logging application
 - 📫 How to reach me: Connect with me on LinkedIn using the link below
 - ⚡ Fun fact: Before finding programming I took a masters degree in history and worked as a carpenter
 
